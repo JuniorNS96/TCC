@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 Arquivos/arquivos_teste/
 .~lock*
+~$*
+*.tmp
